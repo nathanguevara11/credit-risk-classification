@@ -10,6 +10,9 @@ In this section, describe the analysis you completed for the machine learning mo
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
 
+The purpose of the analysis was to was to evaluate the trustworthiness of someone to loan to. The data included information such as borrower income, debt and debt to income ratios, among other factors that give insight to how reliable a borrower would be to pay back the loan. We separated the loan statuses and loan features and set them as the y and X values respectively. We used train_test_split to create training data and testing data for the 
+
+
 ## Results
 
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
